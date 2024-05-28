@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Esp32",
+			"path": "../../../../../OneDrive/Documents/Programming/PlatformIO/Projects/Esp32"
+		},
+		{
+			"name": "ESP32-LED_BLINK",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
